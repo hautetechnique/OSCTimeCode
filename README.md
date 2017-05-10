@@ -1,6 +1,8 @@
 # Binary
 
-Included is a C++ example that allows you to send and recieve OSCTimecode over ethernet.
+A compiled binary download is available [here](https://github.com/hautetechnique/OSCTimeCode/releases).
+
+It is a C++ MacOS app that allows you to send and recieve OSCTimecode over ethernet.
 
 # Installation
 
